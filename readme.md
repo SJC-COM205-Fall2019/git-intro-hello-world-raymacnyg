@@ -1,3 +1,5 @@
-Hello World
+##Hello World
 
-It's Thursday
+It is Thursday
+
+This is fun! Almost the weekend :)
